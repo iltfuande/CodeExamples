@@ -1,4 +1,4 @@
-package rgb_to_hex;
+package task;
 
 public class RgbToHex {
 

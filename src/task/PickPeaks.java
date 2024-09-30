@@ -1,4 +1,4 @@
-package pick_peaks;
+package task;
 
 import java.util.ArrayList;
 import java.util.Collections;
