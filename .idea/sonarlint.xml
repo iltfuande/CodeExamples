@@ -6,5 +6,10 @@
         <option value="FILE:src/pick_peaks/PickPeaks.java" />
       </list>
     </option>
+    <option name="moduleMapping">
+      <map>
+        <entry key="CodeExamples" value="CodeWarsExamples" />
+      </map>
+    </option>
   </component>
 </project>

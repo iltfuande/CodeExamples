@@ -1,4 +1,4 @@
-package task;
+package codewars;
 
 public class Max {
 
